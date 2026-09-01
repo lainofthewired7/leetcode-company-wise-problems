@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Using a Robot to Print the Lexicographically Smallest String,100.0,0.006219627006186676,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"
 MEDIUM,Decode String,92.6,0.00630900023452826,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-XEASY,Concatenation of Array,92.6,0.009007582757757258,https://leetcode.com/problems/concatenation-of-array,"Array, Simulation"
+XX EASY,Concatenation of Array,92.6,0.009007582757757258,https://leetcode.com/problems/concatenation-of-array,"Array, Simulation"
 MEDIUM,Best Time to Buy and Sell Stock II,92.6,0.007150141189599879,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
 EASY,Best Time to Buy and Sell Stock,83.1,0.005725113571199103,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
 MEDIUM,Container With Most Water,83.1,0.006064812783424924,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
