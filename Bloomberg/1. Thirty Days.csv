@@ -17,7 +17,7 @@ ComeBack MEDIUM,Reverse Linked List II,83.1,0.005217604631213987,https://leetcod
 HARD,Stone Game IV,83.1,0.006519361944953155,https://leetcode.com/problems/stone-game-iv,"Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game"
 EASY,Two Sum,69.8,0.005800924262108931,https://leetcode.com/problems/two-sum,"Array, Hash Table"
 HARD,Median of Two Sorted Arrays,69.8,0.004736934987937765,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-MEDIUM,Group Anagrams,69.8,0.007312858120048459,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+XXMEDIUM,Group Anagrams,69.8,0.007312858120048459,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
 MEDIUM,Longest Substring Without Repeating Characters,69.8,0.003977890191636289,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
 MEDIUM,3Sum,69.8,0.003969283210506896,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
 MEDIUM,Binary Tree Vertical Order Traversal,69.8,0.005788598039366801,https://leetcode.com/problems/binary-tree-vertical-order-traversal,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree"
