@@ -28,7 +28,7 @@ MEDIUM,Find K Closest Elements,69.8,0.005001233443505365,https://leetcode.com/pr
 MEDIUM,Simplify Path,69.8,0.005122078707996506,https://leetcode.com/problems/simplify-path,"String, Stack"
 MEDIUM,Insert Delete GetRandom O(1),69.8,0.0055486449175325145,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
 MEDIUM,Game Play Analysis IV,69.8,0.004210965598705609,https://leetcode.com/problems/game-play-analysis-iv,Database
-EASY,Climbing Stairs,69.8,0.005428115313453636,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+XX EASY,Climbing Stairs,69.8,0.005428115313453636,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
 MEDIUM,Permutations,69.8,0.008226112598117502,https://leetcode.com/problems/permutations,"Array, Backtracking"
 EASY,Smallest Divisible Digit Product I,69.8,0.00730541760479171,https://leetcode.com/problems/smallest-divisible-digit-product-i,"Math, Enumeration"
 MEDIUM,Two City Scheduling,69.8,0.00688570010462713,https://leetcode.com/problems/two-city-scheduling,"Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm"
