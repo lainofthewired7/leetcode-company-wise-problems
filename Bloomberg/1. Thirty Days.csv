@@ -8,7 +8,7 @@ XX MEDIUM,Container With Most Water,83.1,0.006064812783424924,https://leetcode.c
 XX MEDIUM,Number of Provinces,83.1,0.007093647275197817,https://leetcode.com/problems/number-of-provinces,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
 XX MEDIUM,Add Two Numbers,83.1,0.004913262476278471,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
 MEDIUM,Rotate Image,83.1,0.008056985359227104,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,3Sum Closest,83.1,0.00492051418061214,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
+XXMEDIUM,3Sum Closest,83.1,0.00492051418061214,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
 EASY,Maximum Average Subarray I,83.1,0.0048902198979668835,https://leetcode.com/problems/maximum-average-subarray-i,"Array, Sliding Window"
 XX MEDIUM,House Robber,83.1,0.005350258069714873,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
 XX EASY,Maximum Depth of Binary Tree,83.1,0.007852234574133888,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
